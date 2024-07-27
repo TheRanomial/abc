@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Admin/>
-      <Button appName="webapp">Hii there</Button>
+      <Button appName="webapp">Hii there for thsi new app</Button>
     </div>
   );
 }
